@@ -1,1 +1,1 @@
-# DSA_marathon
+# DSA-marathon
